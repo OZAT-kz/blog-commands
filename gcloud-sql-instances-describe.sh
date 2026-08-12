@@ -1,3 +1,8 @@
+# ==============================================================================
+# Diagnosing Cloud SQL instance status
+# Source: OZAT Engineering Blog (https://ozat.kz)
+# GitHub: https://github.com/OZAT-kz/blog-commands/blob/main/gcloud-sql-instances-describe.sh
+# ==============================================================================
 
--- Модельді бағалау
-SELECT * FROM ML.EVALUATE(MODEL \`ecommerce_ml.item_recommender\`);
+
+gcloud sql instances list --filter="name=prod-pg-db"
