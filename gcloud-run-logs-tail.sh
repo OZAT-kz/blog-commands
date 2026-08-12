@@ -1,18 +1,8 @@
+# ==============================================================================
+# Streaming Cloud Run logs in real-time
+# Source: OZAT Engineering Blog (https://ozat.kz)
+# GitHub: https://github.com/OZAT-kz/blog-commands/blob/main/gcloud-run-logs-tail.sh
+# ==============================================================================
 
--- Матрицалық факторизация моделін оқыту
-CREATE OR REPLACE MODEL \`ecommerce_ml.item_recommender\`
-OPTIONS(
-  model_type='matrix_factorization',
-  user_col='user_id',
-  item_col='item_id',
-  rating_col='interaction_score',
-  feedback_type='implicit', -- Бізде жасырын бағалаулар (5 жұлдыз емес, шертулер)
-  l2_reg=0.1,               -- Боттарда артық оқытылмау үшін регуляризация
-  num_factors=20            -- Жасырын векторлардың (эмбеддингтердің) өлшемділігі
-) AS
-SELECT
-  user_id,
-  item_id,
-  interaction_score
-FROM
-  \`ecommerce_ml.training_data\`;
+
+gcloud logging read 'resource.type="cloud_run_revision" AND severity>=ERROR' --limit=5 --format=json
