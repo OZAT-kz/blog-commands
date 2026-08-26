@@ -1,5 +1,5 @@
 # ==============================================================================
-# Emergency restart of a Cloud SQL instance
+# gcloud-sql-instances-restart.sh
 # Source: OZAT Engineering Blog (https://ozat.kz)
 # GitHub: https://github.com/OZAT-kz/blog-commands/blob/main/gcloud-sql-instances-restart.sh
 # ==============================================================================
