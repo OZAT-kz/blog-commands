@@ -1,5 +1,5 @@
 # ==============================================================================
-# Authenticating with GKE clusters
+# gcloud-container-clusters-get-credentials.sh
 # Source: OZAT Engineering Blog (https://ozat.kz)
 # GitHub: https://github.com/OZAT-kz/blog-commands/blob/main/gcloud-container-clusters-get-credentials.sh
 # ==============================================================================
