@@ -1,5 +1,5 @@
 # ==============================================================================
-# Streaming Cloud Run logs in real-time
+# gcloud-run-logs-tail.sh
 # Source: OZAT Engineering Blog (https://ozat.kz)
 # GitHub: https://github.com/OZAT-kz/blog-commands/blob/main/gcloud-run-logs-tail.sh
 # ==============================================================================
