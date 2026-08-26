@@ -1,5 +1,5 @@
 # ==============================================================================
-# Updating secrets in Secret Manager
+# gcloud-secrets-versions-add.sh
 # Source: OZAT Engineering Blog (https://ozat.kz)
 # GitHub: https://github.com/OZAT-kz/blog-commands/blob/main/gcloud-secrets-versions-add.sh
 # ==============================================================================
