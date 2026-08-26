@@ -1,5 +1,5 @@
 # ==============================================================================
-# Restarting a Kubernetes deployment
+# kubectl-rollout-restart.sh
 # Source: OZAT Engineering Blog (https://ozat.kz)
 # GitHub: https://github.com/OZAT-kz/blog-commands/blob/main/kubectl-rollout-restart.sh
 # ==============================================================================
