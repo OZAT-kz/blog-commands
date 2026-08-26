@@ -1,5 +1,5 @@
 # ==============================================================================
-# Blocking DDoS traffic via Cloud Armor
+# gcloud-compute-security-policies-create.sh
 # Source: OZAT Engineering Blog (https://ozat.kz)
 # GitHub: https://github.com/OZAT-kz/blog-commands/blob/main/gcloud-compute-security-policies-create.sh
 # ==============================================================================
