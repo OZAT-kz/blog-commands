@@ -1,5 +1,5 @@
 # ==============================================================================
-# Diagnosing Cloud SQL instance status
+# gcloud-sql-instances-describe.sh
 # Source: OZAT Engineering Blog (https://ozat.kz)
 # GitHub: https://github.com/OZAT-kz/blog-commands/blob/main/gcloud-sql-instances-describe.sh
 # ==============================================================================
