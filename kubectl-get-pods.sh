@@ -1,6 +1,6 @@
 # ==============================================================================
 # kubectl-get-pods.sh
-# Source: OZAT Engineering Blog (https://ozat.kz)
+# Source: OZAT Engineering Hub (https://ozat.kz)
 # GitHub: https://github.com/OZAT-kz/blog-commands/blob/main/kubectl-get-pods.sh
 # ==============================================================================
 
