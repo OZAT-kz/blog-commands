@@ -1,6 +1,6 @@
 # ==============================================================================
 # gcloud-container-clusters-get-credentials.sh
-# Source: OZAT Engineering Blog (https://ozat.kz)
+# Source: OZAT Engineering Hub (https://ozat.kz)
 # GitHub: https://github.com/OZAT-kz/blog-commands/blob/main/gcloud-container-clusters-get-credentials.sh
 # ==============================================================================
 
