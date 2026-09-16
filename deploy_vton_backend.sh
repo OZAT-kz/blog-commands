@@ -1,5 +1,5 @@
 # ==============================================================================
-# Deploy commands for VTON Bot
+# Виртуальная примерочная для Instagram-бутиков: Image-to-Image генерация на Imagen 3 / Vertex AI по фото клиента
 # Source: OZAT Engineering Hub (https://ozat.kz)
 # GitHub: https://github.com/OZAT-kz/blog-commands/blob/main/deploy_vton_backend.sh
 # ==============================================================================
